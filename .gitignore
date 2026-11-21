@@ -7,6 +7,9 @@ auth.json
 *.pem
 *.token
 
+# Topic skills live in humans-as-ai-skills, not here
+skills/
+
 # Noise
 node_modules/
 *.log

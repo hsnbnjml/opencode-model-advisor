@@ -1,0 +1,14 @@
+# Secrets — never commit
+service.json
+auth.json
+.env
+.env.*
+*.key
+*.pem
+*.token
+
+# Noise
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
